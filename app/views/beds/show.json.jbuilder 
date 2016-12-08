@@ -1,0 +1,6 @@
+
+
+
+json.name @bed.name
+json.ssn @bed.ssn
+json.city @bed.city
